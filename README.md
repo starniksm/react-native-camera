@@ -6,7 +6,7 @@ Due to the lack of maintainers and increased code complexity, react-native-camer
 Second commit
 VisionCamera offers new APIs, better performance, improved stability and more features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
-Third commit
+Third committ
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
 
 <br />
